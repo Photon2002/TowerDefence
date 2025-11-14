@@ -7,6 +7,7 @@ int main()
 {
     sf::RenderWindow window(sf::VideoMode(1024, 800), "Tower Defense");
     std::cout << "Hello World!\n";
+    int a = 5;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania

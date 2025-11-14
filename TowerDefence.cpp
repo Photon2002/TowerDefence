@@ -5,6 +5,7 @@
 
 int main()
 {
+    sf::RenderWindow window(sf::VideoMode(1024, 800), "Tower Defense");
     std::cout << "Hello World!\n";
 }
 
